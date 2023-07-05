@@ -16,7 +16,7 @@
       @hideSideBarMenu="showSidebarMenu = false"
     />
   </header>
-  <RouterView />
+    <RouterView />
 </template>
 
 <script setup>
